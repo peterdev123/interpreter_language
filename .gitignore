@@ -1,7 +1,3 @@
-# Node.js dependencies
-node_modules/
-package-lock.json
-
 # TypeScript build outputs
 dist/
 *.js
@@ -17,3 +13,6 @@ dist/
 # Temporary files
 tmp/
 *.tmp
+
+# Test files
+hello.bpp
